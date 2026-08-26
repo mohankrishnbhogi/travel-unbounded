@@ -1,4 +1,4 @@
-# Travel Unbounded
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a1fcf6a-d9d7-43e0-baa2-4259fcf273fa" /># Travel Unbounded
 
 A full-stack travel website built for the Travel Unbounded Full Stack Web Developer assignment.
 
@@ -290,8 +290,8 @@ Database persistence was verified by checking the submitted enquiry in Firestore
 ### GitHub Repository
 
 ```text
-YOUR_GITHUB_REPOSITORY_URL
-```
+
+```https://github.com/mohankrishnbhogi/travel-unbounded
 
 ### Live Website
 
